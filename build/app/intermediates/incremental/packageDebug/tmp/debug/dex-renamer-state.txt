@@ -1,0 +1,4 @@
+#Sun Sep 17 18:31:19 BRT 2023
+base.0=K\:\\devclub\\flutter\\my_imc_calculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
